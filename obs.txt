@@ -1,1 +1,5 @@
-parei na aula 5 - estrutura do projeto
+ativar o php do MAMP:
+export PATH=/Applications/MAMP/bin/php/php7.4.21/bin:$PATH
+
+-
+parei na aula 7 - criando banco
