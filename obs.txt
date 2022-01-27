@@ -2,4 +2,4 @@ ativar o php do MAMP:
 export PATH=/Applications/MAMP/bin/php/php7.4.21/bin:$PATH
 
 -
-parei na aula 8 - criando model
+parei na aula 10 - Controller Store index
