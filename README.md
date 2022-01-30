@@ -1,1 +1,2 @@
-aqui vai a descrição rica do projeto
+(em andamento)
+criação de Api Rest com Laravel 8 e Token JWT.
