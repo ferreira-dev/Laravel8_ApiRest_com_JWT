@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\StoresController;
+use App\Http\Controllers\Core\StoreController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -19,4 +19,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::get('stores', [StoresController::class, 'index']);
+Route::get('store', [StoreController::class, 'index']);
+Route::post('store', [StoreController::class, 'store']);

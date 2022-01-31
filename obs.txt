@@ -2,4 +2,4 @@
 export PATH=/Applications/MAMP/bin/php/php7.4.21/bin:$PATH
 
 -
-parei na aula 10 - Controller Store index
+parei na aula 11 - inserindo dados
